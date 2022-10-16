@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_48" fill="#fff" stroke="#707070" d="M0 0H40V40H0z" transform="translate(210 4540)"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#344154;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7px}
+        </style>
+    </defs>
+    <g id="Mask_Group_22" clip-path="url(#clip-path)" transform="translate(-210 -4540)">
+        <g id="Group_49" transform="translate(-2205.749 3293.791)">
+            <path id="Path_143" d="M2432.205 1249.123v7.922l1.965-1.552 1.914 1.552v-7.922" class="cls-3" transform="translate(-10.589 0)"/>
+            <path id="Path_144" d="M2438.052 1255.41v-6.287h-18.6a1.8 1.8 0 0 0-1.8 1.8v25.474a1.8 1.8 0 0 1 1.8-1.8h15.322" class="cls-3" transform="translate(0 0)"/>
+            <path id="Path_145" d="M2417.651 1349.223a1.665 1.665 0 0 0 1.665 1.665h15.453" class="cls-3" transform="translate(0 -72.829)"/>
+            <path id="Line_69" d="M13.562 0L0 0" class="cls-3" transform="translate(2438.052 1279.576)"/>
+            <path id="Line_70" d="M0 0L13.125 0" class="cls-3" transform="translate(2438.052 1261.54)"/>
+            <rect id="Rectangle_47" width="16.42" height="27.035" class="cls-3" rx="4.868" transform="translate(2436.404 1257.045)"/>
+            <path id="Path_146" fill="#ffc524" d="M2514.887 1366.487a1.038 1.038 0 1 0-1.038 1.038 1.038 1.038 0 0 0 1.038-1.038z" transform="translate(-69.235 -84.634)"/>
+            <path id="Line_71" d="M0 0L3.254 0" class="cls-3" transform="translate(2442.987 1259.27)"/>
+            <g id="Group_48" transform="translate(2429.265 1261.54)">
+                <path id="Line_72" d="M3.162 0L0 0" class="cls-3" transform="translate(0 4)"/>
+                <g id="Group_47" transform="translate(0.271 0)">
+                    <path id="Line_73" d="M2.891 1.508L0 0" class="cls-3"/>
+                    <path id="Line_74" d="M2.891 0L0 1.508" class="cls-3" transform="translate(0 6.493)"/>
+                </g>
+            </g>
+            <path id="Path_147" fill="#35b4cf" d="M2505.623 1310.219v-9.195h-13.138a.874.874 0 0 0 .73.862l5.132.859a8.125 8.125 0 0 1 6.117 4.791z" transform="translate(-54.446 -37.761)"/>
+        </g>
+    </g>
+</svg>

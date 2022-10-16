@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.606" height="49.47" viewBox="0 0 50.606 49.47">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#282d33;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Group_61" transform="translate(0.5 0.5)">
+        <path id="Stroke_1" d="M40.08 16.783a.649.649 0 0 1-.646.653H.646A.65.65 0 0 1 0 16.783V.652A.65.65 0 0 1 .646 0h38.787a.649.649 0 0 1 .646.652z" class="cls-1" transform="translate(0 31.034)"/>
+        <path id="Stroke_3" d="M0 .2h3.041" class="cls-1" transform="translate(3.263 35.284)"/>
+        <path id="Stroke_5" d="M0 .2h3.04" class="cls-1" transform="translate(8.349 35.284)"/>
+        <path id="Stroke_7" d="M0 .2h3.039" class="cls-1" transform="translate(13.435 35.284)"/>
+        <path id="Stroke_9" d="M0 .2h3.039" class="cls-1" transform="translate(18.52 35.284)"/>
+        <path id="Stroke_11" d="M0 .2h3.039" class="cls-1" transform="translate(23.607 35.284)"/>
+        <path id="Stroke_13" d="M0 .2h3.038" class="cls-1" transform="translate(28.693 35.284)"/>
+        <path id="Stroke_15" d="M0 .2h3.039" class="cls-1" transform="translate(33.777 35.284)"/>
+        <path id="Stroke_17" d="M0 .2h3.041" class="cls-1" transform="translate(3.263 39.555)"/>
+        <path id="Stroke_19" d="M0 .2h3.04" class="cls-1" transform="translate(8.349 39.555)"/>
+        <path id="Stroke_21" d="M0 .2h3.039" class="cls-1" transform="translate(13.435 39.555)"/>
+        <path id="Stroke_23" d="M0 .2h3.039" class="cls-1" transform="translate(18.52 39.555)"/>
+        <path id="Stroke_25" d="M0 .2h3.039" class="cls-1" transform="translate(23.607 39.555)"/>
+        <path id="Stroke_27" d="M0 .2h3.038" class="cls-1" transform="translate(28.693 39.555)"/>
+        <path id="Stroke_29" d="M0 .2h3.039" class="cls-1" transform="translate(33.777 39.555)"/>
+        <path id="Stroke_31" d="M0 .2h3.041" class="cls-1" transform="translate(3.263 43.826)"/>
+        <path id="Stroke_33" d="M0 .2h3.04" class="cls-1" transform="translate(8.349 43.826)"/>
+        <path id="Stroke_35" d="M0 .2h18.343" class="cls-1" transform="translate(13.435 43.826)"/>
+        <path id="Stroke_37" d="M0 .2h3.039" class="cls-1" transform="translate(33.777 43.826)"/>
+        <path id="Stroke_39" fill="none" stroke="#282d33" stroke-dasharray="1.575" stroke-miterlimit="10" d="M15.85 0H7.743A7.783 7.783 0 0 0 0 7.825a7.784 7.784 0 0 0 7.743 7.824h31.338" transform="translate(0.865 8.986)"/>
+        <path id="Stroke_41" d="M.226 0a5.382 5.382 0 0 1-.058.786" class="cls-1" transform="translate(49.381 29.904)"/>
+        <path id="Stroke_43" fill="none" stroke="#282d33" stroke-dasharray="1.584 1.584" stroke-miterlimit="10" d="M7.552 0a5.209 5.209 0 0 1-4.695 2.973H0" transform="translate(41.535 32.201)"/>
+        <path id="Stroke_45" d="M.787.2H0" class="cls-1" transform="translate(39.96 34.977)"/>
+        <path id="Stroke_47" d="M3.8 1.917a1.908 1.908 0 0 1-1.9 1.917A1.917 1.917 0 0 1 1.9 0a1.908 1.908 0 0 1 1.9 1.917z" class="cls-1" transform="translate(6.955 12.786)"/>
+        <path id="Stroke_49" d="M4.744 0H1.9A1.908 1.908 0 0 0 0 1.917v.157a4.8 4.8 0 0 0 3.321 1.335 4.8 4.8 0 0 0 3.32-1.335v-.157A1.907 1.907 0 0 0 4.744 0z" class="cls-1" transform="translate(5.532 17.349)"/>
+        <path id="Stroke_51" d="M3.8 1.917a1.908 1.908 0 0 1-1.9 1.917A1.917 1.917 0 0 1 1.9 0a1.908 1.908 0 0 1 1.9 1.917z" class="cls-1" transform="translate(43.714 20.558)"/>
+        <path id="Stroke_53" d="M4.744 0H1.9A1.908 1.908 0 0 0 0 1.917v.157a4.8 4.8 0 0 0 3.32 1.335 4.8 4.8 0 0 0 3.321-1.335v-.157A1.907 1.907 0 0 0 4.744 0z" class="cls-1" transform="translate(42.291 25.121)"/>
+        <path id="Stroke_55" d="M9.682 19.569A9.785 9.785 0 0 1 9.682 0a9.785 9.785 0 0 1 0 19.569z" class="cls-1" transform="translate(19.094 0)"/>
+        <path id="Stroke_57" d="M5.647 2.853a2.839 2.839 0 0 1-2.824 2.854A2.838 2.838 0 0 1 0 2.853 2.838 2.838 0 0 1 2.823 0a2.839 2.839 0 0 1 2.824 2.853z" class="cls-1" transform="translate(25.953 5.98)"/>
+        <path id="Stroke_59" d="M9.883 6.145V2.854A2.839 2.839 0 0 0 7.059 0H2.824A2.839 2.839 0 0 0 0 2.854v3.291" class="cls-1" transform="translate(23.835 12.004)"/>
+    </g>
+</svg>

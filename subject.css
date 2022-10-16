@@ -1,0 +1,142 @@
+* {
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.nwhe2ehd8293h2id298dh2 {
+    padding: 0px 50px 0px 30px;
+    height: 80px;
+
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+
+    background: linear-gradient(-90deg, #032749, #00101f);
+
+    color: white;
+    cursor: pointer;
+
+}
+
+.logo {
+    width: 120px;
+    height: 10px;
+
+    color: white;
+
+}
+
+.logo img {
+    height: 70px;
+    width: 60px;
+    padding-top: 15px;
+    
+}
+
+
+
+
+.nwhe2ehd8293h2id298dh2 ul {
+    display: flex;
+    list-style: none;
+    padding: 20px 50px 0px 120px;
+    transition: 0.3s ease;
+    
+}
+
+.nwhe2ehd8293h2id298dh2 ul li a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding-left: 70px;
+    justify-content: space-between;
+}
+
+
+.menubcjhewgywgdwuq{
+    justify-content: right;
+    justify-items: right;
+}
+
+nav .menubcjhewgywgdwuq i{
+    cursor: pointer;
+    display: none;
+}
+
+
+.dn43iuhr6gtt li a::after {
+    content: "";
+    position: absolute;
+    background-color: rgb(231, 229, 229);
+    height: 5px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.6s;
+}
+
+.dn43iuhr6gtt li a:hover::after {
+    width: 100%;
+}
+
+.dn43iuhr6gtt li a:hover {
+    color: greenyellow;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#click{
+    display: none;
+}
+
+#click:checked ~ ul{
+left: 0%;
+}
+
+
+
+@media(max-width:450px){
+    nav .menubcjhewgywgdwuq i{
+        padding-left: 290px;
+    }
+}
+
+
+@media (max-width: 1100px) {
+
+    
+
+    nav .menubcjhewgywgdwuq i{
+        display: block;
+        padding-top: 20px;
+    }
+    nav ul{
+        position: fixed;
+        top: 80px;
+        left: -100%;
+        background-color: #00101f;
+        height: 100vh;
+        width: 100%;
+        display:flex;
+        flex-direction: column;
+        text-align: left;
+    }
+
+    nav ul li{
+        margin: 25px 0;
+    }
+
+    
+
+
+}
